@@ -1,4 +1,4 @@
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/landing-page.png)
+![](doc/landingpage.png)
 
 meteor-application-template-react is a sample Meteor 2.9 application that illustrates: 
 
@@ -158,7 +158,7 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-![](doc/signin.png)
+![](doc/login.png)
 
 #### Register page
 
